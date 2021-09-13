@@ -1,0 +1,24 @@
+{
+  "name": "transactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon dist/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fayyozbobokulov/transactions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fayyozbobokulov/transactions/issues"
+  },
+  "homepage": "https://github.com/fayyozbobokulov/transactions#readme",
+  "dependencies": {
+    "mongodb": "^4.1.1"
+  }
+}
